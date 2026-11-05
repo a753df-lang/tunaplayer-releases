@@ -1,0 +1,29 @@
+{
+  "version": "1.4.4",
+  "file": "TunaPlayer_Setup_v1.4.4.exe",
+  "size": 177113623,
+  "sha256": "77650376eeba254e4faf72b69cfe81f0646cdce5a0637ec1c2e71105cc8736c2",
+  "parts": [
+    "TunaPlayer_Setup_v1.4.4.part00.bin",
+    "TunaPlayer_Setup_v1.4.4.part01.bin",
+    "TunaPlayer_Setup_v1.4.4.part02.bin",
+    "TunaPlayer_Setup_v1.4.4.part03.bin",
+    "TunaPlayer_Setup_v1.4.4.part04.bin",
+    "TunaPlayer_Setup_v1.4.4.part05.bin",
+    "TunaPlayer_Setup_v1.4.4.part06.bin",
+    "TunaPlayer_Setup_v1.4.4.part07.bin",
+    "TunaPlayer_Setup_v1.4.4.part08.bin",
+    "TunaPlayer_Setup_v1.4.4.part09.bin",
+    "TunaPlayer_Setup_v1.4.4.part10.bin",
+    "TunaPlayer_Setup_v1.4.4.part11.bin",
+    "TunaPlayer_Setup_v1.4.4.part12.bin",
+    "TunaPlayer_Setup_v1.4.4.part13.bin",
+    "TunaPlayer_Setup_v1.4.4.part14.bin",
+    "TunaPlayer_Setup_v1.4.4.part15.bin",
+    "TunaPlayer_Setup_v1.4.4.part16.bin",
+    "TunaPlayer_Setup_v1.4.4.part17.bin",
+    "TunaPlayer_Setup_v1.4.4.part18.bin"
+  ],
+  "notes": "· 곡을 바꾸면 앨범아트가 바로 바뀌도록 개선 (재생 시작 전에 먼저 표시)",
+  "date": "2026-11-04"
+}
