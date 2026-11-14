@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "version": "1.4.1",
-  "file": "TunaPlayer_android_1.4.1.apk",
-  "size": 25036643,
-  "sha256": "02e08bfbab3e0d8399c2fb266a58097159b60f740e99fa687dcf2e0ff89348b9",
-  "notes": "· 이퀄라이저가 소리에 적용되지 않던 문제 수정\n· (1.4.0) 이퀄라이저 추가: 하단바 EQ 버튼, 기기별 추천 프리셋, 블루투스 기기별 자동 전환"
+  "versionCode": 16,
+  "version": "1.4.2",
+  "file": "TunaPlayer_android_1.4.2.apk",
+  "size": 25036647,
+  "sha256": "120a0b8141de3041be561fa9f946711acfe3d70daa864b53d7f5f9d028acb6a7",
+  "notes": "· 이퀄라이저가 실제 소리에 적용되도록 수정 (재생 중 프리셋 전환 확인 완료)\n· 이퀄라이저 화면 제목이 안 보이던 문제 수정\n· (1.4.0) 이퀄라이저 추가: 하단바 EQ 버튼, 기기별 추천 프리셋, 블루투스 기기별 자동 전환"
 }
